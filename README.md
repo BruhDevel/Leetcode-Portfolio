@@ -6,7 +6,7 @@
 ### ‎ 
 ### - This project serves as a portfolio of Leetcode solutions
 ### I added three categories based on the difficulties of the problems on leetcode
-### You can find them by the folders : "Easy" , "Medium" and "Hard"
+### You can find them by the names : "Easy" , "Medium" and "Hard"
 ### A folder can be founded by the name "Daily" in which i will upload daily leetcode problems
 ### ‎ ‎ 
 ![InterPolar's GitHub stats](https://github-readme-stats.vercel.app/api?username=BruhDevel&theme=dracula) ![InterPolar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BruhDevel&theme=dracula)
