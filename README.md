@@ -4,8 +4,10 @@
 ### ‎ 
 ![cat](https://github.com/BruhDevel/Leetcode/assets/118571561/becfe37e-b855-4e9b-9403-17d7794639ae)
 ### ‎ 
-### This project serves as a portfolio of Leetcode solutions
-### I will add more solutions along the way
+### - This project serves as a portfolio of Leetcode solutions
+### I added three categories based on the difficulties of the problems on leetcode
+### You can find them by the folders : "Easy" , "Medium" and "Hard"
+### I added a folder called "Daily" In which i will upload the daily leetcode problems
 ### ‎ ‎ 
 ![InterPolar's GitHub stats](https://github-readme-stats.vercel.app/api?username=BruhDevel&theme=dracula) ![InterPolar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BruhDevel&theme=dracula)
 ### ‎ 
