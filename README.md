@@ -5,6 +5,7 @@
 ![cat](https://github.com/BruhDevel/Leetcode/assets/118571561/becfe37e-b855-4e9b-9403-17d7794639ae)
 ### ‎ 
 ### This project serves as a portfolio of Leetcode solutions
+### I will add more solutions along the way
 ### ‎ ‎ 
 ![InterPolar's GitHub stats](https://github-readme-stats.vercel.app/api?username=BruhDevel&theme=dracula) ![InterPolar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BruhDevel&theme=dracula)
 ### ‎ 
